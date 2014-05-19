@@ -28,3 +28,8 @@ gem install bundler
 
 # PHP
 apt-get -y install php5-gd php-pear php-apc
+
+# Custom
+git clone https://github.com/natapon/html2pdf
+cd /usr/local/bin
+ln -sf /html2pdf/phppdf .
