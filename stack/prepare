@@ -25,3 +25,6 @@ xargs -L 1 git clone --depth=1 < /build/buildpacks.txt
 update-alternatives --set ruby /usr/bin/ruby1.9.1
 update-alternatives --set gem /usr/bin/gem1.9.1
 gem install bundler
+
+# PHP
+apt-get -y install php5-gd php-pear php-apc
