@@ -43,3 +43,7 @@ socat
 sqlite3
 telnet
 zlib1g-dev
+language-pack-th-base
+xfonts-thai
+fonts-thai-tlwg
+ttf-thai-tlwg
