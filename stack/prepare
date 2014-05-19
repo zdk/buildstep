@@ -30,6 +30,8 @@ gem install bundler
 apt-get -y install php5-gd php-pear php-apc
 
 # Custom
+mkdir -p /build/prepares
+cd /build/prepares
 git clone https://github.com/natapon/html2pdf
 cd /usr/local/bin
-ln -sf /html2pdf/phppdf .
+ln -sf /build/prepares/html2pdf/phppdf .
