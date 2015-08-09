@@ -6,7 +6,7 @@ curl
 daemontools
 dnsutils
 ed
-git
+git-core
 imagemagick
 iputils-tracepath
 libcurl4-openssl-dev
@@ -46,4 +46,15 @@ zlib1g-dev
 language-pack-th-base
 xfonts-thai
 fonts-thai-tlwg
-ttf-thai-tlwg
+fonts-tlwg-waree
+fonts-tlwg-umpush
+fonts-tlwg-typo
+fonts-tlwg-typist
+fonts-tlwg-typewriter
+fonts-tlwg-sawasdee
+fonts-tlwg-purisa
+fonts-tlwg-norasi
+fonts-tlwg-mono
+fonts-tlwg-loma
+fonts-tlwg-kinnari
+fonts-tlwg-garudahai-tlwg
